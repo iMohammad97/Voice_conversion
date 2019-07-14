@@ -1,9 +1,0 @@
-include *.txt
-recursive-include docs *.txt
-include *.pdf
-recursive-include docs *.pdf
-include *.png
-recursive-include docs *.png
-include *.wav
-recursive-include amfm_decompy *.wav
-
